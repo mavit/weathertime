@@ -4,7 +4,7 @@
     <title lang="EN">WeatherTime Screensaver</title>
   </details>
   <plugins>
-    <plugin name="WeatherTime" version="2.2.2" minTarget="7.2" maxTarget="7.*">
+    <plugin name="WeatherTime" version="2.2.3" minTarget="7.2" maxTarget="7.*">
       <title lang="EN">WeatherTime Screensaver</title>
       <desc lang="EN">The weather data is retrieved from Weather Underground (tm). To localize your
         forecast you also need to find out a unambiguous wunderground.com citycode. It is advisable to use
