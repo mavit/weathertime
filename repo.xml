@@ -13,7 +13,7 @@
       <changes lang="EN">Support for Squeezecenter 7.2/7.3</changes>
       <creator>Martin Rehfeld</creator>
       <email>martin.rehfeld@glnetworks.de</email>
-      <url>https://github.com/mhx/weathertime/raw/master/releases/Plugins-WeatherTime-Plugin-2.2.3.zip</url>
+      <url>https://raw.githubusercontent.com/mhx/weathertime/master/releases/Plugins-WeatherTime-Plugin-2.2.3.zip</url>
       <sha>948fb0fc9bb95957e3d00606322ee60afaf5273e</sha>
     </plugin>
   </plugins>
